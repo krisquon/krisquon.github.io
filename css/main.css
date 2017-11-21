@@ -57,3 +57,7 @@ html, body {
     color: white;
     text-align: center;
 }
+
+#overlay-text { /* personal descriptors on overlay */
+    transform: translateY(50%);
+}
